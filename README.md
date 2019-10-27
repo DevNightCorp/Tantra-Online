@@ -3,7 +3,7 @@ https://github.com/DevNightCorp/Tantra-Online
 ## CONTENIDO DE JUGADORES
   
 ### Guía para principiantes
-* [Home](https://github.com/DevNightCorp/Tantra-Online/wiki)
+* [Inicio](https://github.com/DevNightCorp/Tantra-Online/wiki)
 * [About game](https://github.com/khanakat/TantraOnline/wiki/About-game)
 * [Features](https://github.com/khanakat/TantraOnline/wiki/Features)
 * [Intro the realms](https://github.com/khanakat/TantraOnline/wiki/Intro-the-realms-of-Tantra)
