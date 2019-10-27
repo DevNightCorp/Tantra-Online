@@ -1,6 +1,6 @@
 https://github.com/DevNightCorp/Tantra-Online
   
-## PLAYERS CONTENT
+## CONTENIDO DE JUGADORES
   
 ### Guía para principiantes
 * [Home](https://github.com/DevNightCorp/Tantra-Online/wiki)
