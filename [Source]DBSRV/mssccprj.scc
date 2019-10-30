@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[DBSRV.sln]
+SCC_Aux_Path = "\\Quantum\TantraCode\"
+SCC_Project_Name = "$/Server/DBSRV", QTAAAAAA
+
+[DBSRV.vcproj]
+SCC_Aux_Path = "\\Quantum\TantraCode\"
+SCC_Project_Name = "$/Server/DBSRV", QTAAAAAA
