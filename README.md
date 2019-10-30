@@ -6,10 +6,3 @@ https://github.com/DevNightCorp/Tantra-Online
 * [Inicio](https://github.com/DevNightCorp/Tantra-Online/wiki)
 * [Sobre el juego](https://github.com/DevNightCorp/Tantra-Online/wiki/Sobre-el-juego)
   
-### Intermediate guide
-
-  
-### Advanced guide
-
-  
-## DEVELOPERS CONTENT
