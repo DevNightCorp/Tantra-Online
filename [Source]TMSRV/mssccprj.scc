@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[ZONESRV.sln]
+SCC_Aux_Path = "\\Tantrapatch\SourceSafeDB\TantraCode"
+SCC_Project_Name = "$/Tantra/Server/ZONESRV", RPSAAAAA
+
+[ZONESRV.vcproj]
+SCC_Aux_Path = "\\Tantrapatch\SourceSafeDB\TantraCode"
+SCC_Project_Name = "$/Tantra/Server/ZONESRV", RPSAAAAA

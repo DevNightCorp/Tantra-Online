@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Performing Time: 11/4/2006 11:20:20 --> SYN Scan: About To Scan 65535 Ports Using 1 Thread
+Scan 220.194.62.114 Complete In 0 Hours 0 Minutes 48 Seconds. Found 0 Open Ports
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Performing Time: 11/4/2006 11:21:18 --> SYN Scan: About To Scan 65535 Ports Using 1 Thread
+Scan 220.194.62.114 Complete In 0 Hours 0 Minutes 46 Seconds. Found 0 Open Ports
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Performing Time: 11/4/2006 11:23:48 --> SYN Scan: About To Scan 65535 Ports Using 1 Thread
+Scan 220.194.62.114 Complete In 0 Hours 0 Minutes 45 Seconds. Found 0 Open Ports
+-------------------------------------------------------------------------------
+
